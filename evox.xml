@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name="isha"
+           fetch="https://github.com/ishakumari-772"
+           revision="refs/heads/elle" />
+
+<!-- Trees -->
+<project path="device/xiaomi/chiron" remote="isha" name="device_chiron" revision="evoX" />
+
+<!-- Remove stuffs -->
+<remove-project name="vendor_evolution" />
+
+<!-- Bring them back -->
+<project path="vendor/evolution" name="vendor-evoX" remote="isha" />
+
+</manifest>
