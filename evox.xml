@@ -12,6 +12,6 @@
 <remove-project name="vendor_evolution" />
 
 <!-- Bring them back -->
-<project path="vendor/evolution" name="vendor-evoX" remote="isha" />
+<project path="vendor/evolution" name="vendor-evoX" remote="isha" revision="elle" />
 
 </manifest>
