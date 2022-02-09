@@ -2,7 +2,8 @@
 <manifest>
 
 <remote name="isha"
-           fetch="https://github.com/ishakumari-5646" />
+           fetch="https://github.com/ishakumari-5646"
+           revision="refs/heads/frico-release" />
 <remote name="me" 
         fetch="https://github.com/lazrdev" />
  <remote name="mi"
