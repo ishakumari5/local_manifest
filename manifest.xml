@@ -2,7 +2,7 @@
 <manifest>
 
 <remote name="isha"
-           fetch="https://github.com/ishakumari-5646" />
+           fetch="https://github.com/ishakumari5646" />
 <remote name="me" 
         fetch="https://github.com/lazrdev" />
  <remote name="mi"
