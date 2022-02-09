@@ -71,6 +71,9 @@
                  name="hardware_qcom_media" 
                  remote="me" 
                  revision="8.6.2" />
+<!-- Remove stuffs -->
+<remove-project name="vendor_potato" />
+<project name="vendor-potato"                          path="vendor/potato"                       remote="isha" />
 
      
 </manifest>
